@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D1740975-B350-467D-99DA-A0813D500B53</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PitchPerfect</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>48C6ADBA1342181207B9864510FB6CC4CC19E9E6</key>
+		<string>https://github.com/yjzhengxiao/PitchPerfect-iOS-Swift.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PitchPerfect.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>48C6ADBA1342181207B9864510FB6CC4CC19E9E6</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yjzhengxiao/PitchPerfect-iOS-Swift.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>48C6ADBA1342181207B9864510FB6CC4CC19E9E6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>48C6ADBA1342181207B9864510FB6CC4CC19E9E6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PitchPerfect-iOS-Swift</string>
+		</dict>
+	</array>
+</dict>
+</plist>
